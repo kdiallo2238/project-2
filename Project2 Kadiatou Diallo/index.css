@@ -112,9 +112,8 @@ color: #6c3e47;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-
+  animation: animate 10s backwards;
 }
-
   .box_1{
     position: relative;
     top: 70%;
@@ -143,8 +142,9 @@ color: blue;
   margin-right: 100px;
   margin-top:10px;
   margin-bottom: 30px;
-  padding: 10px;
-  background-color: black;
+border-style: hidden;
+padding: 10px;
+background-color: black;
 }
 .image3{
 position: relative;
